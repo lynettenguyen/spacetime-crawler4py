@@ -218,3 +218,7 @@ THINGS TO KEEP IN MIND
    both. Mecahnisms can be used to avoid that, however the politeness limits
    still apply and will be checked.
 6. Do not attempt to download the links directly from ics servers.
+
+
+#Repl.it
+[![Run on Repl.it](https://repl.it/badge/github/Mondego/spacetime-crawler4py)](https://repl.it/github/Mondego/spacetime-crawler4py)
